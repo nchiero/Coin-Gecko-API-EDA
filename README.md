@@ -1,2 +1,2 @@
 # Coin-Gecko-API-EDA
-Exploratory analysis of the Cryptocurrency market using the Coin Gecko API
+In this project I used the Coin-Gecko API to get a overview of the current state of the Cryptocurrency Market.
